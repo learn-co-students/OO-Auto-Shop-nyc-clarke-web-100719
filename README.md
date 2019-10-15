@@ -9,7 +9,7 @@ The basics have been built out for you, but you'll need to figure out the relati
 ## Deliverables
 
 Here's what we need to be able to do.
-
+a
 **CarOwner**
 
   - Get a list of all owners
@@ -22,19 +22,19 @@ Here's what we need to be able to do.
 
 **Car**
 
-  - Get a list of all cars
+  - Get a list of all cars *
+ 
+  - Get a list of all car classifications *
 
-  - Get a list of all car classifications
-
-  - Get a list of mechanics that have an expertise that matches the car classification
+  - Get a list of mechanics that have an expertise that matches the car classification *
 
 **Mechanic**
 
-  - Get a list of all mechanics
+  - Get a list of all mechanics *
 
-  - Get a list of all cars that a mechanic services
+  - Get a list of all cars that a mechanic services *
 
-  - Get a list of all the car owners that go to a specific mechanic
+  - Get a list of all the car owners that go to a specific mechanic *
 
   - Get a list of the names of all car owners who
-  go to a specific mechanic
+  go to a specific mechanic *
